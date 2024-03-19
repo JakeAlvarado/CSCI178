@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1710373003 source:c:\users\joshu\onedrive\desktop\178games\lesson09\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glscene.h
+	<common.h>
+
+1710373171 c:\users\joshu\onedrive\desktop\178games\lesson09\include\common.h
+	<windows.h>
+	<iostream>
+	<gl/gl.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	<SOIL.h>
+
+1706726625 c:\users\joshu\onedrive\desktop\178games\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1707185191 c:\users\joshu\onedrive\desktop\178games\common\include\soil.h
+
+1710375142 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glcheckcollision.cpp
+	"GLCheckCollision.h"
+
+1710374034 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glcheckcollision.h
+	<common.h>
+
+1710374034 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glenms.cpp
+	"GLEnms.h"
+
+1710201430 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glenms.h
+	<common.h>
+	<GLTexture.h>
+	<GLTimer.h>
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\gltexture.h
+	<common.h>
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\gltimer.h
+	<common.h>
+
+1710193086 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glinputs.cpp
+	"GLInputs.h"
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glinputs.h
+	<GLModel.h>
+	<GLParallax.h>
+	<GLPlayer.h>
+	<common.h>
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glmodel.h
+	<common.h>
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glparallax.h
+	<common.h>
+	<GLTexture.h>
+	<GLTimer.h>
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\glplayer.h
+	<common.h>
+	<GLTexture.h>
+	<GLTimer.h>
+
+1710193086 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\gllight.cpp
+	"GLLight.h"
+
+1710193112 c:\users\joshu\onedrive\desktop\178games\lesson09\include\gllight.h
+	<GLScene.h>
+
+1710193086 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glmodel.cpp
+	"GLModel.h"
+
+1710193086 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glparallax.cpp
+	"GLParallax.h"
+
+1710198740 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glplayer.cpp
+	"GLPlayer.h"
+
+1710803402 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<GLTexture.h>
+	<GLModel.h>
+	<GLInputs.h>
+	<GLParallax.h>
+	<GLPlayer.h>
+	<GLEnms.h>
+	<GLTimer.h>
+	<GLCheckCollision.h>
+
+1710193086 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\gltexture.cpp
+	"GLTexture.h"
+
+1710193086 source:c:\users\joshu\onedrive\desktop\178games\lesson09\src\gltimer.cpp
+	"GLTimer.h"
+
+1710803533 source:c:\users\jakea\onedrive\desktop\178games\lesson09\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1710803535 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glscene.h
+	<common.h>
+
+1710805467 c:\users\jakea\onedrive\desktop\178games\lesson09\include\common.h
+	<windows.h>
+	<iostream>
+	<gl/gl.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	<SOIL.h>
+
+1710804001 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glcheckcollision.cpp
+	"GLCheckCollision.h"
+
+1710803945 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glcheckcollision.h
+	<common.h>
+
+1710806911 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glenms.cpp
+	"GLEnms.h"
+
+1710806112 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glenms.h
+	<common.h>
+	<GLTexture.h>
+	<GLTimer.h>
+
+1710803535 c:\users\jakea\onedrive\desktop\178games\lesson09\include\gltexture.h
+	<common.h>
+
+1710803535 c:\users\jakea\onedrive\desktop\178games\lesson09\include\gltimer.h
+	<common.h>
+
+1710803535 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glinputs.cpp
+	"GLInputs.h"
+
+1710803534 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glinputs.h
+	<GLModel.h>
+	<GLParallax.h>
+	<GLPlayer.h>
+	<common.h>
+
+1710803534 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glmodel.h
+	<common.h>
+
+1710803535 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glparallax.h
+	<common.h>
+	<GLTexture.h>
+	<GLTimer.h>
+
+1710803535 c:\users\jakea\onedrive\desktop\178games\lesson09\include\glplayer.h
+	<common.h>
+	<GLTexture.h>
+	<GLTimer.h>
+
+1710803535 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\gllight.cpp
+	"GLLight.h"
+
+1710803534 c:\users\jakea\onedrive\desktop\178games\lesson09\include\gllight.h
+	<GLScene.h>
+
+1710803535 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glmodel.cpp
+	"GLModel.h"
+
+1710803535 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glparallax.cpp
+	"GLParallax.h"
+
+1710804714 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glplayer.cpp
+	"GLPlayer.h"
+
+1710807068 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<GLTexture.h>
+	<GLModel.h>
+	<GLInputs.h>
+	<GLParallax.h>
+	<GLPlayer.h>
+	<GLEnms.h>
+	<GLTimer.h>
+	<GLCheckCollision.h>
+
+1710803535 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\gltexture.cpp
+	"GLTexture.h"
+
+1710803535 source:c:\users\jakea\onedrive\desktop\178games\lesson09\src\gltimer.cpp
+	"GLTimer.h"
+
+1706734188 c:\users\jakea\onedrive\desktop\178games\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1707185192 c:\users\jakea\onedrive\desktop\178games\common\include\soil.h
+
